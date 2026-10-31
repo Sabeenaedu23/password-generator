@@ -46,7 +46,6 @@ Password-Generator/
 
 1. Clone the repository:
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_LINK
    ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
@@ -66,7 +65,7 @@ Password-Generator/
 
 **GitHub Repository:** https://github.com/sabeenaedu23
 
-**Live Demo:** Add your GitHub Pages URL here.
+**Live Demo:** https://sabeenaedu23.github.io/password-generator/
 
 ## 👩‍💻 Developed By
 
